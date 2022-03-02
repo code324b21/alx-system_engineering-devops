@@ -7,6 +7,6 @@ a script that changes the working directory to the user’s home directory.
 ## 3-listfiles
 Display current directory contents in a long format
 ## 4-listmorefiles
-Display current directory contents, including hidden files
+A script to display current directory contents, including hidden files
 ## 5-listfilesdigitonly
 A script to display current directory contents.
