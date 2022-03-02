@@ -9,4 +9,4 @@ Display current directory contents in a long format
 ## 4-listmorefiles
 Display current directory contents, including hidden files
 ## 5-listfilesdigitonly
-script to display current directory contents.
+A script to display current directory contents.
